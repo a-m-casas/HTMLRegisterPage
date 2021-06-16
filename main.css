@@ -1,0 +1,11 @@
+P.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em;
+}
+
+.button {
+  font-size: medium;
+  font-weight: 300;
+  background-color: blue;
+}
